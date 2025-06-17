@@ -5,6 +5,9 @@
         "Supertrunfo-novato-Logica.C": "cpp",
         "Xadrez-novato.C": "cpp",
         "Supertrunfo-aventureiro.C": "cpp",
-        "Supertrunfo-mestre.C": "cpp"
+        "Supertrunfo-mestre.C": "cpp",
+        "Supertrunfo-eventureiro-Logica.C": "cpp",
+        "Supertrunfo-aventureiro-Logica.C": "cpp",
+        "Supertrunfo-mestre-Logica.C": "cpp"
     }
 }
