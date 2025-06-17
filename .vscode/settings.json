@@ -10,6 +10,9 @@
         "Supertrunfo-aventureiro-Logica.C": "cpp",
         "Supertrunfo-mestre-Logica.C": "cpp",
         "Xadrez-aventureiro.C": "cpp",
-        "Xadrez-Mestre.C": "cpp"
+        "Xadrez-Mestre.C": "cpp",
+        "Batalha-naval-novato.C": "cpp",
+        "Batalha-naval-aventureiro.C": "cpp",
+        "Batalha-naval-mestre.C": "cpp"
     }
 }
