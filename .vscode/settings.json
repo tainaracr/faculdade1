@@ -8,6 +8,8 @@
         "Supertrunfo-mestre.C": "cpp",
         "Supertrunfo-eventureiro-Logica.C": "cpp",
         "Supertrunfo-aventureiro-Logica.C": "cpp",
-        "Supertrunfo-mestre-Logica.C": "cpp"
+        "Supertrunfo-mestre-Logica.C": "cpp",
+        "Xadrez-aventureiro.C": "cpp",
+        "Xadrez-Mestre.C": "cpp"
     }
 }
